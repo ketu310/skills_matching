@@ -308,7 +308,7 @@ def show_home():
     col_logo, col_search, col_profile = st.columns([2, 5, 3])
     
     with col_logo:
-        st.markdown('<div class="top-header"><p class="header-title">🔗 LinkedIn Mini</p></div>', unsafe_allow_html=True)
+        st.markdown('<div class="top-header"><p class="header-title">🔗 job & skills matching platform</p></div>', unsafe_allow_html=True)
     
     with col_search:
         st.markdown("<div style='padding-top: 8px;'>", unsafe_allow_html=True)

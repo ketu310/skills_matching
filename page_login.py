@@ -114,7 +114,7 @@ def show_login():
     with col2:
         st.markdown('<div class="login-container">', unsafe_allow_html=True)
         
-        st.markdown('<p class="main-title">🔗 LinkedIn Mini</p>', unsafe_allow_html=True)
+        st.markdown('<p class="main-title">🔗 job & skills matching platform</p>', unsafe_allow_html=True)
         st.markdown('<p class="subtitle">Welcome Back!</p>', unsafe_allow_html=True)
         
         st.markdown("""

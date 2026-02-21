@@ -1,1 +1,1 @@
-# skills_matching
+# job-skills-matching-platform
